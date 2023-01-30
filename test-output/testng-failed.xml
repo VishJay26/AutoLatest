@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Users/PRAVEEN KUMAR/Desktop/Edited_Framework/src/testjava/com/demo/tests/web/base/homepage/HomePageTest.java(failed)">
+    <classes>
+      <class name="com.demo.tests.web.base.homepage.HomePageTest">
+        <methods>
+          <include name="testHomePageComponents" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.demo.tests.web.base.homepage.HomePageTest -->
+    </classes>
+  </test> <!-- Users/PRAVEEN KUMAR/Desktop/Edited_Framework/src/testjava/com/demo/tests/web/base/homepage/HomePageTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
